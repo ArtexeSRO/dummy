@@ -9,4 +9,6 @@
 class Car
 {
 
+    public $color;
+
 }
