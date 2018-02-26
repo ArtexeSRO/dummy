@@ -9,4 +9,6 @@
 class House
 {
 
+	protected $color;
+
 }
