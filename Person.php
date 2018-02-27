@@ -9,4 +9,6 @@
 class Person
 {
 
+    public $ahoj = 1;
+
 }
