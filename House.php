@@ -13,6 +13,9 @@ class House
     {
         $article = "Ahoj";
         $data = [];
+		
+		$kiko = "Jebly";
+
         return $article;
 
     }
