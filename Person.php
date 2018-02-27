@@ -10,5 +10,6 @@ class Person
 {
 
     public $ahoj = 1;
+    public $koko = "koko";
 
 }

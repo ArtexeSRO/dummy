@@ -13,7 +13,12 @@ class House
     {
         $article = "Ahoj";
         $data = [];
-		
+
+        $newData = [
+            1 => "koko",
+            2 => "ahoj"
+        ];
+
 		$kiko = "Jebly";
 
         return $article;
