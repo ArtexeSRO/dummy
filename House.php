@@ -12,10 +12,12 @@ class House
     public function addArticle()
     {
         $article = "Ahoj";
+        $data = [];
 		
+
 		$kiko = "Jebly, ale nie až tak ako by mal byť";
-		
         return $article;
+
     }
 
 }
