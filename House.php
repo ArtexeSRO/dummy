@@ -12,6 +12,9 @@ class House
     public function addArticle()
     {
         $article = "Ahoj";
+		
+		$kiko = "Jebly";
+		
         return $article;
     }
 
