@@ -13,7 +13,7 @@ class House
     {
         $article = "Ahoj";
 		
-		$kiko = "Jebly";
+		$kiko = "Jebly, ale nie až tak ako by mal byť";
 		
         return $article;
     }
