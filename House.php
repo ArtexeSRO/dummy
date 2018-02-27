@@ -12,7 +12,9 @@ class House
     public function addArticle()
     {
         $article = "Ahoj";
+        $data = [];
         return $article;
+
     }
 
 }
