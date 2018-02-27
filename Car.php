@@ -13,5 +13,11 @@ class Car {
     public function setColor($color) {
         $this->color = $color;
     }
+	
+		
+	public function druhaF() {
+		
+	}
+
 
 }
