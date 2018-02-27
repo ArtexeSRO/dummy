@@ -9,4 +9,10 @@
 class House
 {
 
+    public function addArticle()
+    {
+        $article = "Ahoj";
+        return $article;
+    }
+
 }
